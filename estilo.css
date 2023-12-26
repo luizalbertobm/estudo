@@ -1,0 +1,26 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a{
+   font-size: 20px; 
+   color: brown;
+   text-decoration: none;
+}
+
+h1{
+    background-color: beige;
+    color: blue;
+}
+
+#col1{
+    width: 200px; float: left; background-color: antiquewhite;
+}
+
+#col2{
+    width: 500px; float: left; background-color: aquamarine;
+}
+
+#col2 p{
+    font-family: 'Courier New', Courier, monospace;
+}
